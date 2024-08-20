@@ -1,0 +1,30 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card{
+    display: flex;
+    width: 400px;
+    justify-content: space-around;
+    padding: 20px;
+    margin: 200px auto;
+    text-align: center;
+    background-color:#ddebf8 ;
+    border-bottom:8px solid #d8cefe;
+    text-shadow:2px 2px 4px gray;
+    box-shadow:  2px 2px 4px gray;
+}
+.profile{
+    width: 150px;
+    border-radius: 20px 0 20px 0;
+}
+
+
+h3{
+    font-size: 24px;
+}
+h4{
+    font-size: 14px;
+}
+
